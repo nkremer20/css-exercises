@@ -1,0 +1,9 @@
+.click-me {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+
+.no-click-me {
+    background-color: #FFFF54;
+}
